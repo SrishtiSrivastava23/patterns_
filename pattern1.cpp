@@ -12,6 +12,7 @@ void Pyra(int n)
     }
 }
 int main()
+
 {
 int n=5;
 Pyra(n);
